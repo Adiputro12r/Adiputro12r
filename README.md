@@ -16,17 +16,24 @@ Aku suka membuat proyek yang menantang dan terus belajar hal baru setiap harinya
 
 ---
 
+
+
 ## 📦 Proyek Unggulan
 
-Berikut beberapa repository yang bisa kamu cek 👇  
+- 🔐 **[Project-crypto-uas](https://github.com/Adiputro12r/Project-crypto-uas)**  
+  Aplikasi crypto untuk tugas UAS (Python)
 
-- 🔐 **Project-crypto-uas** – Aplikasi crypto untuk tugas UAS (Python)  
-- 🎮 **Project-Tokutype** – Game latihan mengetik huruf Jepang (JS)  
-- 🖼️ **Books-Lovers** – Website HTML untuk komunitas pecinta buku  
-- 🕹️ **Project_Infinite_runner** – Game endless runner bertema lokal Indonesia  
-- 📚 dan masih banyak lagi!
+- 🎮 **[Project-Tokutype](https://github.com/Adiputro12r/Project-Tokutype)**  
+  Game latihan mengetik huruf Jepang (JavaScript)
 
-*Kamu bisa mengeklik nama repository di atas untuk melihat detailnya 😉*
+- 🖼️ **[Books-Lovers](https://github.com/Adiputro12r/Books-Lovers)**  
+  Website HTML untuk komunitas pecinta buku
+
+- 🕹️ **[Project_Infinite_runner](https://github.com/Adiputro12r/Project_Infinite_runner)**  
+  Game endless runner bertema lokal Indonesia
+
+- 📚 **Dan masih banyak lagi!**  
+  👉 https://github.com/Adiputro12r?tab=repositories
 
 ---
 
