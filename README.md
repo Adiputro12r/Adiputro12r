@@ -1,6 +1,7 @@
 # 👋 Halo, aku Adiputro12r!
 
-![Curious Cat](https://media.gifdb.com/curious-orange-cute-cat-u5nrb3aq8mox1u4f.gif)
+<img src="https://media.gifdb.com/curious-orange-cute-cat-u5nrb3aq8mox1u4f.gif" width="250" />
+
 
 Selamat datang di GitHub aku! 🐱  
 Aku adalah seorang tech enthusiast dan game developer yang menggeluti progammer unity dan roblox studio serta beberapa web  games sederhana
