@@ -3,7 +3,7 @@
 ![Curious Cat](https://media.gifdb.com/curious-orange-cute-cat-u5nrb3aq8mox1u4f.gif)
 
 Selamat datang di GitHub aku! 🐱  
-Di sini kamu bisa lihat berbagai proyek yang aku buat — mulai dari game sederhana, project crypto, aplikasi JavaScript, hingga praktik grafkom & Unity.
+Aku adalah seorang tech enthusiast dan game developer yang menggeluti progammer unity dan roblox studio serta beberapa web  games sederhana
 
 ---
 
