@@ -1,7 +1,8 @@
 # 👋 Halo, aku Adiputro12r!
 
-<img src="https://raw.githubusercontent.com/Adiputro12r/Adiputro12r/main/cat.gif" width="150" height="150">
-
+<p align="center">
+  <img src="cat.jpg" width="150" />
+</p>
 
 Selamat datang di GitHub aku! 🐱  
 Aku adalah seorang tech enthusiast dan game developer yang menggeluti progammer unity dan roblox studio serta beberapa web  games sederhana
