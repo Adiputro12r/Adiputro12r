@@ -1,6 +1,6 @@
 # 👋 Halo, aku Adiputro12r!
 
-<img src="https://media.gifdb.com/curious-orange-cute-cat-u5nrb3aq8mox1u4f.gif" width="250" />
+<img src="https://raw.githubusercontent.com/Adiputro12r/Adiputro12r/main/cat.gif" width="150" height="150">
 
 
 Selamat datang di GitHub aku! 🐱  
