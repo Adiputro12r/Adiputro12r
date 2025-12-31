@@ -1,7 +1,7 @@
 # 👋 Halo, aku Adiputro12r!
 
 <p align="center">
-  <img src="cat.jpg" width="150" />
+  <img src="cat.jpg" width="400" />
 </p>
 
 Selamat datang di GitHub aku! 🐱  
